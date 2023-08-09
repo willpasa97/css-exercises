@@ -1,0 +1,32 @@
+.classP ,
+.classP2 ,
+.classP3 {
+    color: black;
+    background-color: palevioletred;
+}
+
+.classP ,
+.classP3 {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.classP2 {
+    font-size: 33px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#number2 {
+    color: blue;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#number4 {
+    color: black;
+    background-color: greenyellow;
+    font-size: 33px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
